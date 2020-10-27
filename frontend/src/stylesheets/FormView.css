@@ -1,0 +1,38 @@
+.form-view > label {
+  padding: 0px 0px 10px;
+}
+
+.form-view input,
+.form-view select {
+  margin-left: 10px;
+  border: none;
+  border-bottom: 1px solid;
+  background-color: #f9f9f9;
+}
+
+.form-view .button {
+  background-color: #000022;
+}
+
+#add-form {
+  text-align: center;
+  width: 50%;
+  background-color: #f9f9f9;
+  box-shadow: 2px 2px 3px grey;
+  margin: 30px auto;
+  padding: 30px;
+}
+
+.categorySearch {
+  padding: 10px 10px 10px 0;
+  border: 0px;
+  border-bottom: 1px solid #000022;
+  background-color: #f5f5f5;
+}
+
+.button {
+  background-color: #000022;
+  padding: 9px 15px;
+  border: none;
+  border-radius: 5px;
+}

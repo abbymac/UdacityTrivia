@@ -1,0 +1,54 @@
+.quiz-play-holder {
+  width: 80%;
+  margin-left: 10%;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.category-holder {
+  margin-top: 16px;
+  font-size: 24px;
+}
+
+.choose-header {
+  font-size: 34px;
+  font-weight: bold;
+}
+.play-category {
+  cursor: pointer;
+}
+.play-category:hover {
+  color: #db7f67;
+}
+
+.button {
+  margin-top: 15px;
+  background-color: #000022;
+  color: white;
+  padding: 8px 15px;
+  font-size: 16px;
+  align-self: center;
+}
+
+div.button {
+  margin-top: 15px;
+  margin-left: calc(50% - 50px);
+}
+
+.quiz-question {
+  margin: 12px;
+  font-size: 24px;
+}
+
+.correct {
+  color: green;
+}
+
+.wrong {
+  color: red;
+}
+
+.next-question {
+  width: 120px;
+  margin: 15px auto 0 auto !important;
+}
